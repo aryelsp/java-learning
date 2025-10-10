@@ -15,7 +15,7 @@ strings (equalsIgnoreCase).
 
 ---How to run---
 
-Save it as App.java
+Save it as Main.java
 
 In the terminal:
 
