@@ -19,5 +19,5 @@ Save it as Main.java
 
 In the terminal:
 
-javac App.java
-java App
+javac Main.java
+java Main
