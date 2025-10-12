@@ -1,4 +1,4 @@
-# OOP Basics Practice
+# OOP Practice
 
 Mini projects to practice core OOP concepts in Java.
 This project contains small exercises and examples to help me learn and test my knowledge step by step.
