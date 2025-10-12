@@ -6,15 +6,26 @@ This project contains small exercises and examples to help me learn and test my 
 ## Concepts Practiced
 
 Classes and Objects
+
 Attributes and Methods
+
 Constructors and Overloading
+
 Encapsulation (Getters and Setters)
+
 Access Modifiers (public, private, protected)
+
 this, static, final
+
 Inheritance (extends)
+
 @Override and Polymorphism
+
 Abstract Classes
+
 Interfaces
+
+
 ## Usage
 Open the project in your preferred IDE (IntelliJ IDEA, VS Code).
 Run Main.java to see examples and test outputs for each class.
