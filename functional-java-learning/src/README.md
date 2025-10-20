@@ -7,4 +7,3 @@ Simple Java project to practice **functional programming** concepts like:
 - Streams (map, filter, reduce, collect)
 - Optional
 
-Author: Pedro
